@@ -1,2 +1,3 @@
-# instagrambootstrapclone
-Simple HTML Instagram clone made with Bootstrap.
+# Instagram Ana Sayfa Klonu
+
+Bootstrap 5 kullanılarak yapılmış Instagram ana sayfası arayüzünün klonudur
